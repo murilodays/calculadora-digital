@@ -1,4 +1,4 @@
-# Recomenda Jogos  
+# Calculadora Digital  
 
 Bem-vindo ao repositório do meu trabalho de faculdade da matéria de Front-end Frameworks, desenvolvido com **HTML, CSS, JavaScript** de uma calculadora digital.  
 
